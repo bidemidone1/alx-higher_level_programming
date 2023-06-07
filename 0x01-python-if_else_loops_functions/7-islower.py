@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#7-isower.py
+# 7-isower.py
 
 def islower(c):
     """Check for lowercase characters."""
